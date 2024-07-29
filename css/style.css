@@ -176,6 +176,6 @@ footer a { text-align: center;}
 }
 /*MQ deskopt*/
 @media (min-width:1024px) {
-    body { background-image: url(/Img/Fondo\ bordo.jpg) ;
+    body { background-image: url(../Img/Fondo\ bordo.jpg) ;
             background-size: cover;}
 }
